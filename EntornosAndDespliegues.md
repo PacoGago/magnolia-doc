@@ -22,7 +22,7 @@ drwxr-xr-x  3 root   root   4096 Apr 17 12:53 ..
 ```
 #### Tomcat para Author como para Public
 
-Revisamos el estado de la carpeta de Tomcat según nuestra versión será _/var/lib/tomcat8_
+Revisamos el estado de la carpeta de Tomcat según nuestra versión será _/var/lib/tomcat8_ 
 
 ```console
 ubuntu@ip-10-19-0-10:/var/lib/tomcat8$ ls -ltra
